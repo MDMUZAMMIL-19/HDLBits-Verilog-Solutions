@@ -24,6 +24,9 @@ This repository contains structured Verilog HDL solutions for problem sets on [H
 * **Hierarchy & Modularity:** Submodule instantiation, port mapping by name vs. position, and multi-bit bus interconnects.
 
 ---
-├── 4. Verification Reading Simulations/
+## Tools & Standards
+**Language**: Verilog HDL (IEEE 1364-2001)
+
+**Target Platform**: HDLBits Simulation Engine (Icarus Verilog / ModelSim backend)
 ├── 5. Verification Writing Testbenches/
 └── README.md
