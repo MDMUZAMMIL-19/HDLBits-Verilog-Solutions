@@ -28,5 +28,3 @@ This repository contains structured Verilog HDL solutions for problem sets on [H
 **Language**: Verilog HDL (IEEE 1364-2001)
 
 **Target Platform**: HDLBits Simulation Engine (Icarus Verilog / ModelSim backend)
-├── 5. Verification Writing Testbenches/
-└── README.md
